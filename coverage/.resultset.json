@@ -244,12 +244,55 @@
           null,
           1,
           1,
+          1,
           null
         ]
       },
       "/Users/michaelkoulouvaris/turing/2module/projects/set_list/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/michaelkoulouvaris/turing/2module/projects/set_list/spec/features/songs/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/michaelkoulouvaris/turing/2module/projects/set_list/spec/models/artist_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
           null
         ]
       },
@@ -267,9 +310,34 @@
           null
         ]
       },
+      "/Users/michaelkoulouvaris/turing/2module/projects/set_list/spec/models/song_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          null
+        ]
+      },
       "/Users/michaelkoulouvaris/turing/2module/projects/set_list/app/models/song.rb": {
         "lines": [
           1,
+          1,
+          null
+        ]
+      },
+      "/Users/michaelkoulouvaris/turing/2module/projects/set_list/app/controllers/artist_songs_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/michaelkoulouvaris/turing/2module/projects/set_list/app/controllers/application_controller.rb": {
+        "lines": [
           1,
           null
         ]
@@ -282,18 +350,12 @@
           null,
           null,
           1,
-          1,
+          2,
           null,
-          null
-        ]
-      },
-      "/Users/michaelkoulouvaris/turing/2module/projects/set_list/app/controllers/application_controller.rb": {
-        "lines": [
-          1,
           null
         ]
       }
     },
-    "timestamp": 1657081653
+    "timestamp": 1657169209
   }
 }
